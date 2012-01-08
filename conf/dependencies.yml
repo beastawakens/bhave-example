@@ -2,11 +2,11 @@
 
 require:
     - play
-    - behave -> behave
+    - bhave -> bhave
     
 repositories:
     - My modules:
         type:       local
         artifact:   ${application.path}/../[module]
         contains:
-            - behave
+            - bhave
