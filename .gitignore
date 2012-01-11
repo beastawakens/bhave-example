@@ -5,3 +5,6 @@ tmp
 .settings/
 eclipse/
 commands.pyc
+test-result/
+test-result/application.log
+chromedriver.log
