@@ -8,3 +8,11 @@ commands.pyc
 test-result/
 test-result/application.log
 chromedriver.log
+db/h2/
+db.h2.db
+fs:play.lock.db
+
+
+
+
+
