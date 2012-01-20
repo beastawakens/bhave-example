@@ -11,6 +11,8 @@ chromedriver.log
 db/h2/
 db.h2.db
 fs:play.lock.db
+data/
+newrelic/
 
 
 
