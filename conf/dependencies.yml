@@ -7,6 +7,6 @@ require:
 repositories:
     - My modules:
         type:       local
-        artifact:   ${application.path}/../[module]
+        artifact:   ${application.path}/../bhave/[module]
         contains:
             - bhave
