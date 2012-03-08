@@ -2,11 +2,7 @@
 
 require:
     - play
-    - bhave -> bhave
+    - play -> bhave 0.7:
+        transitive: false
     
-repositories:
-    - My modules:
-        type:       local
-        artifact:   ${application.path}/../bhave/[module]
-        contains:
-            - bhave
+    

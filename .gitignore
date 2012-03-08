@@ -13,7 +13,8 @@ db.h2.db
 fs:play.lock.db
 data/
 newrelic/
-
+db.trace.db
+modules/
 
 
 
