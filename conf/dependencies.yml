@@ -2,13 +2,11 @@
 
 require:
     - play
-    - play -> bhave
-    - local -> bhave:
-        id: test
+    - bhave -> bhave
     
 repositories:
     - My modules:
         type:       local
         artifact:   ${application.path}/../bhave/[module]
         contains:
-            - local
+            - bhave
