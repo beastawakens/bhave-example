@@ -15,7 +15,7 @@ data/
 newrelic/
 db.trace.db
 modules/
-
+logs/
 
 
 
